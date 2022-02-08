@@ -1,0 +1,4 @@
+/public/.sass-cache/
+.idea
+*.impl
+/node_modules/
